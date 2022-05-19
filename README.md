@@ -1,4 +1,4 @@
 # Crop-Prediction-System
 Machine Learning Project
-Decision Tree Algorithm
-Random Forest Algorithm
+       Decision Tree Algorithm
+               Random Forest Algorithm
